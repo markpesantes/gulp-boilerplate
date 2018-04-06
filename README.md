@@ -1,5 +1,5 @@
 # gulp-boilerplate
-Starter [gulpfile.js](https://github.com/markpesantes/gulp-boilerplate/blob/master/gulpfile.js) and [package.json](https://github.com/markpesantes/gulp-boilerplate/blob/master/package.json) for scss and es2015(es6)
+Starter [gulpfile.js](https://github.com/markpesantes/gulp-boilerplate/blob/master/gulpfile.js) and [package.json](https://github.com/markpesantes/gulp-boilerplate/blob/master/package.json) for scss and es6
 
 ## Getting Started
 
